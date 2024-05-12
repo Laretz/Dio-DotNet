@@ -1,0 +1,14 @@
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\bin\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\bin\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\bin\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.runtimeconfig.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\bin\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\bin\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\refint\0.4 Desafios de Código Coding The Future Avanade II.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\0.4 Desafios de Código Coding The Future Avanade II.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.4 Desafios de Código Coding The Future Avanade II\obj\Debug\net8.0\ref\0.4 Desafios de Código Coding The Future Avanade II.dll
