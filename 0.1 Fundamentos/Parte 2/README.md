@@ -1,0 +1,1 @@
+Praticando alguns fundamentos, como formatação de valores, DateTime, TryParse, localização da cultura.
