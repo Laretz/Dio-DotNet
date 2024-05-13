@@ -1,0 +1,1 @@
+Atividade colocando em praticas alguns fundamentos, como arrays, lista de repitação e condicionais.
