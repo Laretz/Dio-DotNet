@@ -1,0 +1,1 @@
+codigo voltado a pratica de alguns fundamentos como: criação de metodos, construtores e manipulação de valores

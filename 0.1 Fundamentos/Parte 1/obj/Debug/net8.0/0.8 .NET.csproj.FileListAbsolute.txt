@@ -1,0 +1,28 @@
+C:\Users\renat\3D Objects\workspace\0.8 .NET\bin\Debug\net8.0\0.8 .NET.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\bin\Debug\net8.0\0.8 .NET.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\bin\Debug\net8.0\0.8 .NET.runtimeconfig.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\bin\Debug\net8.0\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\bin\Debug\net8.0\0.8 .NET.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\refint\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\0.8 .NET.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\obj\Debug\net8.0\ref\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\bin\Debug\net8.0\0.8 .NET.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\bin\Debug\net8.0\0.8 .NET.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\bin\Debug\net8.0\0.8 .NET.runtimeconfig.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\bin\Debug\net8.0\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\bin\Debug\net8.0\0.8 .NET.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\refint\0.8 .NET.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\0.8 .NET.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\0.1 Fundamentos\obj\Debug\net8.0\ref\0.8 .NET.dll
