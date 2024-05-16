@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRqkz4MrQy+XQ7lvXgYhynsE47eV7cLDp+vfIpM1rQaP/ORwv69xOBMUOmg16CI5WZKRrhgaxqhxrjXTXBTnbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LareTz\\Documents\\.Net\\Dio-DotNet\\0.5 Hotel\\desafioHotel\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LareTz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\LareTz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\LareTz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\LareTz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
