@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LareTz\\Documents\\.Net\\Parte 4\\Parte 4.csproj",
+      "projectUniqueName": "C:\\Users\\LareTz\\Documents\\.Net\\Dio-DotNet\\0.1 Fundamentos\\Parte 4\\Parte 4.csproj",
       "projectName": "Parte 4",
-      "projectPath": "C:\\Users\\LareTz\\Documents\\.Net\\Parte 4\\Parte 4.csproj",
+      "projectPath": "C:\\Users\\LareTz\\Documents\\.Net\\Dio-DotNet\\0.1 Fundamentos\\Parte 4\\Parte 4.csproj",
       "packagesPath": "C:\\Users\\LareTz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LareTz\\Documents\\.Net\\Parte 4\\obj\\",
+      "outputPath": "C:\\Users\\LareTz\\Documents\\.Net\\Dio-DotNet\\0.1 Fundamentos\\Parte 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LareTz\\AppData\\Roaming\\NuGet\\NuGet.Config",

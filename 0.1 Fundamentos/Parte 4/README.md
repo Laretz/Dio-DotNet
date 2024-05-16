@@ -1,0 +1,1 @@
+Instalando pacote nuget > vscode.  Escrevendo arquivo em JSON, serializando coleção e deserializando um objeto
