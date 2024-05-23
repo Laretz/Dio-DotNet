@@ -1,0 +1,1 @@
+Tratando exceções com  try catch + Praticas de filas, pilhas e dictionary

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KXqF+0xuCkXRs8oIEv0IXl5Dle7dnH4Uk0UPd2WwWN/fhXu8TJXn3ins6Mrh7Xjd/+ozd6GKBi/jikK6/NUmMw==",
+  "dgSpecHash": "SAzPQdmthXMZD88XlLDE4eWTcNVC5vrgC9+8oqARP3fCA9aCsY2LUYPf79ny7BWDtK8RCmXIBt5rV9ePuKGp/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LareTz\\Documents\\.Net\\Dio-DotNet\\0.1 Fundamentos\\Parte 4\\Parte 4.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\LareTz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\0.1 Fundamentos\\Parte 4\\Parte 4.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
