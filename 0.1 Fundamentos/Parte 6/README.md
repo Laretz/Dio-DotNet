@@ -1,0 +1,1 @@
+Nesse repositório, foram implementados algumas classes treinando alguns fundamentos: Classe abstrata, Herança e construtor por herança, Classe e metodos selados, Interface, e uma revisão na classe Object

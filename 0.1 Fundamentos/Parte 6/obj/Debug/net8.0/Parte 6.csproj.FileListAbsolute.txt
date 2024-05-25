@@ -1,0 +1,15 @@
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\bin\Debug\net8.0\Parte 6.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\bin\Debug\net8.0\Parte 6.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\bin\Debug\net8.0\Parte 6.runtimeconfig.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\bin\Debug\net8.0\Parte 6.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\bin\Debug\net8.0\Parte 6.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.sourcelink.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\refint\Parte 6.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\Parte 6.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\Dio-DotNet\0.1 Fundamentos\Parte 6\obj\Debug\net8.0\ref\Parte 6.dll
