@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.7 Desafios de Código Coding The Future Avanade III", "0.7 Desafios de Código Coding The Future Avanade III.csproj", "{08C77A82-C50B-4D91-BEC4-D47BABEB25ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C77A82-C50B-4D91-BEC4-D47BABEB25ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C77A82-C50B-4D91-BEC4-D47BABEB25ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C77A82-C50B-4D91-BEC4-D47BABEB25ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C77A82-C50B-4D91-BEC4-D47BABEB25ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {166B6C4B-5733-499D-9C45-0A67D4444EF8}
+	EndGlobalSection
+EndGlobal
