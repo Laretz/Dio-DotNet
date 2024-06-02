@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiOMb1dO3cprfeCN28nDYTq3a2En0y75/GrIs59L2A0GTyCXuWIHrCnCQ92UHiXPTzGPePtIWZLSEren5D37sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\Dio-DotNet\\0.6 Celular\\DesafioCelular\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
